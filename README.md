@@ -16,7 +16,7 @@
 
 ## 💻 Sobre o projeto
 
-🚀 Alura Space é uma aplicação desenvolvida para um teste técnico de uma vaga de pessoa desenvolvedora front-end jr. Se trata de uma galeria de imagens criada para a empresa [Alura Space](https://www.alura.com.br/) com o objetivo de exibir as imagens incríveis que ela produz do universo observável. É uma aplicação estática, que possui apenas uma página inicial mas que é altamente escalável para adição de novas funcionalidades!
+🚀 Alura Space é uma aplicação desenvolvida para um teste técnico de uma vaga de pessoa desenvolvedora front-end jr. Se trata de uma galeria de imagens criada para a empresa [Alura Space]([https://www.alura.com.br/](https://alura-space-teal-three.vercel.app)) com o objetivo de exibir as imagens incríveis que ela produz do universo observável. É uma aplicação estática, que possui apenas uma página inicial mas que é altamente escalável para adição de novas funcionalidades!
 
 ---
 
@@ -82,7 +82,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="[https://www.instagram.com/ncode.io](https://www.instagram.com/lucase_cavalheiro/?igsh=eW1qMmY5MzVpNjAw&utm_source=qr)/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77410403?v=4" width="100px;" alt="Homem negro, cabelos curtos e encaracolados, nariz largo e com um sorriso no rosto. Está usando um Headset vermelho e preto. O cenário é uma parede lisa atrás com um fundo azul."/>
+ <img style="border-radius: 50%;" src="[https://avatars.githubusercontent.com/u/77410403?v=4](https://github.com/LucasEduardoCavalheiro.png)" width="100px;"
  <br />
  <sub><b>Neilton Seguins</b></sub></a> <a href="https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/" title="Alura Space">🚀</a>
  <br />
