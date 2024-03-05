@@ -81,7 +81,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<a href="https://www.instagram.com/ncode.io/">
+<a href="[https://www.instagram.com/ncode.io](https://www.instagram.com/lucase_cavalheiro/?igsh=eW1qMmY5MzVpNjAw&utm_source=qr)/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77410403?v=4" width="100px;" alt="Homem negro, cabelos curtos e encaracolados, nariz largo e com um sorriso no rosto. Está usando um Headset vermelho e preto. O cenário é uma parede lisa atrás com um fundo azul."/>
  <br />
  <sub><b>Neilton Seguins</b></sub></a> <a href="https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/" title="Alura Space">🚀</a>
